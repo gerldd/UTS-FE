@@ -68,9 +68,13 @@ WattWise dikembangkan untuk meningkatkan kesadaran pengguna terhadap penggunaan 
 
 ## Pengembang
 
-Proyek ini dikembangkan sebagai bagian dari tugas Ujian Tengah Semester mata kuliah Mobile Front-End.
+Proyek ini dikembangkan sebagai bagian dari Ujian Tengah Semester mata kuliah Mobile Front-End.
 
-**GitHub:** [@gerldd](https://github.com/gerldd)
+Kelompok Rajin Nabung
+Edy Berkat Waruwu - 241111891
+Gerald Wonder Nitehe Harefa - 241112781
+Arlen Otnielvi Bu'uLolo - 241112312
+Samuel Sonasa Telaumbanua - 241112038
 
 ---
 
