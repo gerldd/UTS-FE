@@ -70,11 +70,11 @@ WattWise dikembangkan untuk meningkatkan kesadaran pengguna terhadap penggunaan 
 
 Proyek ini dikembangkan sebagai bagian dari Ujian Tengah Semester mata kuliah Mobile Front-End.
 
-Kelompok Rajin Nabung
-Edy Berkat Waruwu - 241111891
-Gerald Wonder Nitehe Harefa - 241112781
-Arlen Otnielvi Bu'uLolo - 241112312
-Samuel Sonasa Telaumbanua - 241112038
+## Kelompok Rajin Nabung
+- ** Edy Berkat Waruwu - 241111891
+- ** Gerald Wonder Nitehe Harefa - 241112781
+- ** Arlen Otnielvi Bu'uLolo - 241112312
+- ** Samuel Sonasa Telaumbanua - 241112038
 
 ---
 
